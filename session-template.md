@@ -4,11 +4,11 @@
 
 # Description
 
+# Track (Cases, Skills, Projects)
+
 # Agenda
 
-# Supplies or other requirements 
-
-# Track (Cases, Skills, Projects)
+# Supplies and other requirements 
 
 # Additional Resources
 

@@ -10,5 +10,5 @@
 
 # Supplies and other requirements 
 
-# Additional Resources
+# Resources
 
